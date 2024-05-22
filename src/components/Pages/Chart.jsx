@@ -44,6 +44,7 @@ function Chart() {
                 ))}
 
               </Select>
+              <Typography>chart example</Typography>
 
             </FormControl>
 
